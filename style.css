@@ -294,11 +294,11 @@ transition: all 0.3s ease-in-out;
   opacity: 1;
 }
 .card1 {
-  background: url("images/Ayan.jpg") center center no-repeat;
+  background: url("images/ayan.jpg") center center no-repeat;
   background-size: 300px;
 }
 .card1:hover {
-  background: url("images/Ayan.jpg") left center no-repeat;
+  background: url("images/ayan.jpg") left center no-repeat;
   background-size: 600px;
 }
 .card1:hover .ab{
